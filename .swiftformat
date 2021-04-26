@@ -1,0 +1,9 @@
+--swiftversion 5.0
+--disable consecutiveSpaces
+--disable spaceInsideBrackets 
+--disable unusedArguments
+--disable numberFormatting
+--trimwhitespace nonblank-lines
+--ifdef no-indent
+--patternlet inline
+--header "\nCopyright (c) {year} James Sherlock\n"
