@@ -4,6 +4,8 @@ This package makes it easier for you to understand the implications of your app'
 
 It adds functionality to [SnapshotTesting](https://github.com/pointfreeco/swift-snapshot-testing/) which allows you to generate images of your UIViews, UIViewControllers and UIImages with multiple color blindness filters over the top simulating what it looks like to users with different types of vision deficiencies.
 
+![Image demonstrating the different types of colour blindness](Resources/Example.png)
+
 ## Usage
 
 ```swift
